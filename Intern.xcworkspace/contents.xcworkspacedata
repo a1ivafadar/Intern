@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Intern.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:../../Library/Developer/Xcode/DerivedData/Intern-hgrpmktptblciudqiwhitjmsldwo/Build/Products/Debug-iphoneos/Pods_Intern.framework"
+      name = "Pods_Intern.framework">
+      <FileRef
+         location = "group:Pods_Intern">
+      </FileRef>
+      <Group
+         location = "group:Headers"
+         name = "Headers">
+         <FileRef
+            location = "group:Pods-Intern-umbrella.h">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Modules"
+         name = "Modules">
+         <FileRef
+            location = "group:module.modulemap">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+   </Group>
+</Workspace>
