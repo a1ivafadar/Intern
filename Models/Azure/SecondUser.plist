@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DISPLAYNAME</key>
+	<string>Ali</string>
+	<key>IDENTIFIER</key>
+	<string>8:acs:51a7170e-6a25-49ac-94dd-202c5c8a4df5_0000000b-d5a8-d8bf-54b7-a43a0d000248</string>
+	<key>TOKEN</key>
+	<string>eyJhbGciOiJSUzI1NiIsImtpZCI6IjEwMiIsIng1dCI6IjNNSnZRYzhrWVNLd1hqbEIySmx6NTRQVzNBYyIsInR5cCI6IkpXVCJ9.eyJza3lwZWlkIjoiYWNzOjUxYTcxNzBlLTZhMjUtNDlhYy05NGRkLTIwMmM1YzhhNGRmNV8wMDAwMDAwYi1kNWE4LWQ4YmYtNTRiNy1hNDNhMGQwMDAyNDgiLCJzY3AiOjE3OTIsImNzaSI6IjE2Mjg2OTQ4NTIiLCJleHAiOjE2Mjg3ODEyNTIsImFjc1Njb3BlIjoidm9pcCIsInJlc291cmNlSWQiOiI1MWE3MTcwZS02YTI1LTQ5YWMtOTRkZC0yMDJjNWM4YTRkZjUiLCJpYXQiOjE2Mjg2OTQ4NTJ9.c0sBRvjx5y4SxJ9gz3IAeAP1PC1tXijq__0TTNU3RbzhvqGfJ5fSsap1ZQ5rmtD9rrudDb1Lskshn_15gISQ7xz8pzQ0rTpVCqqppkdN7CnUnDsKhUbbi4kV6ab-ohj9xDxct2nnfDOZe239Y-IiYoUgYvB9rdQ4KOV8XzpUt0dPVPt96hVEnRwXCAW-u0buH86nY8llJRAAX802mLyzmokADtV_En0jwRVrlcnaI7l3ODhK0Nx5E_tW3cCiV1OEo02KrcY72UbchSuzS0usEJvYXZ1r8pYxQSeRsFXEotWcjOHPQO5onfjlMKCLII_CMDSdYAuA3CQZIcvD_f_5kQ</string>
+	<key>CALLEE</key>
+	<string>8:acs:51a7170e-6a25-49ac-94dd-202c5c8a4df5_0000000b-d5a5-aae8-28c5-593a0d009694</string>
+</dict>
+</plist>

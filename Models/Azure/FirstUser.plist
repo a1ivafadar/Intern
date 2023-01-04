@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DISPLAYNAME</key>
+	<string>Sohila</string>
+	<key>IDENTIFIER</key>
+	<string>8:acs:51a7170e-6a25-49ac-94dd-202c5c8a4df5_0000000b-d5a5-aae8-28c5-593a0d009694</string>
+	<key>TOKEN</key>
+	<string>eyJhbGciOiJSUzI1NiIsImtpZCI6IjEwMiIsIng1dCI6IjNNSnZRYzhrWVNLd1hqbEIySmx6NTRQVzNBYyIsInR5cCI6IkpXVCJ9.eyJza3lwZWlkIjoiYWNzOjUxYTcxNzBlLTZhMjUtNDlhYy05NGRkLTIwMmM1YzhhNGRmNV8wMDAwMDAwYi1kNWE1LWFhZTgtMjhjNS01OTNhMGQwMDk2OTQiLCJzY3AiOjE3OTIsImNzaSI6IjE2Mjg2OTQ2NDQiLCJleHAiOjE2Mjg3ODEwNDQsImFjc1Njb3BlIjoidm9pcCIsInJlc291cmNlSWQiOiI1MWE3MTcwZS02YTI1LTQ5YWMtOTRkZC0yMDJjNWM4YTRkZjUiLCJpYXQiOjE2Mjg2OTQ2NDR9.iYP2hVul3EiRHLkCc3Sz5e4P0pWzEPlbh7hsvNZr9VhuCxNd0g5Y06pOfnV-Z2e-6R1YHxAjxrdoHnuLSeFLBYC5jZD-zUtoWo0v-M2DLBATGmXT1xIxxUdmWalunnAueJn3y6zQke_-S6trV4VClsuZEUa1m8I0_m7x-AlO7PKJkhT0jL6ZtbCKkX4BTp_kSQccvU_hv-jD04df1SMauofn_2etKTsMs5FsFLaOF2d46gM9PPwlk837a1DWYU9dohCkeOv6jm-o0YCkPNW1By1_-7fkT5l6jsYpLTA5wldtcvnLgLh7ksA1VCuAotm3_EJlnQJ7bw_8eA-vvy9jew</string>
+	<key>CALLEE</key>
+	<string>8:acs:51a7170e-6a25-49ac-94dd-202c5c8a4df5_0000000b-d5a8-d8bf-54b7-a43a0d000248</string>
+</dict>
+</plist>
